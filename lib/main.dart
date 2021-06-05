@@ -1,9 +1,9 @@
-import 'package:authentification/HomeDemo.dart';
-import 'package:authentification/Login.dart';
-import 'package:authentification/SignUp.dart';
-import 'package:authentification/Start.dart';
+import 'package:authentification/end/HomeDemo.dart';
+import 'package:authentification/start/Login.dart';
+import 'package:authentification/start/SignUp.dart';
+import 'package:authentification/start/Start.dart';
 import 'package:flutter/material.dart';
-import 'HomePage.dart';
+import 'end/HomePage.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 
